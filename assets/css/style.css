@@ -1,0 +1,26 @@
+.jumbotron {
+	background: url("moulin.png")
+
+}
+
+.container {
+	height: 800px;
+}
+
+#title {
+	padding-top: 100px;
+	font-size: 225px;
+	color: #FF62EB;
+}
+
+#tagline {
+	color: #FDDCFB;
+	padding-left: 100px;
+	font-size: 36px;
+}
+
+#enter-btn {
+	margin-left: 500px;
+	height: 30px
+	width: 60px;
+}
