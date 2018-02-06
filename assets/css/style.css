@@ -12,12 +12,14 @@
 	font-size: 210px;
 	color: #FF62EB;
 	font-weight: bold;
+	font-family: 'Alegreya', serif;
 }
 
 #tagline {
 	color: #FDDCFB;
 	padding-left: 100px;
 	font-size: 36px;
+	font-family: 'Alegreya', serif;
 }
 
 .button{
@@ -27,17 +29,19 @@
 }
 
 #enter-btn {
-	margin-left: 500px;
+	margin-left: 475px;
 	background-size: 100px, 200px;
+	font-style: italic;
+	font-family: 'Alegreya', serif;
 }
 #img-home {
 
-	height: 550px;
-	width: 650px;
-	margin-left: 550px;
+	height: 450px;
+	width: 575px;
+	margin-left: 280px;
 	border-style: solid;
-	border-width: 10px;
-	border-color: #FDDCFB;
+	border-width: 20px;
+	border-color: #DBD2DB;
 
 }
 
