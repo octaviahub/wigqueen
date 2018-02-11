@@ -1,4 +1,4 @@
-.jumbotron {
+#jumbotronIndex {
 	background: url("moulin.png");
 
 }
@@ -58,10 +58,26 @@
 
 }
 
+#shopDiv2 {
+	border: solid;
+	border-color: black;
+	border-width: 10px;
+	height: 650px;
+	width: 650px;
+	/*float: right;
+	margin-bottom: 500px;*/
+}
+
 #shop-img {
 	height: 650px;
 	width: 550px;
 }
 
+/*About CSS*/
+
+#about-img {
+	height: 500px;
+	width: 400px;
+}
 
 
