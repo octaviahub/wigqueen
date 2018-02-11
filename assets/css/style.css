@@ -62,8 +62,8 @@
 	border: solid;
 	border-color: black;
 	border-width: 10px;
-	height: 650px;
-	width: 650px;
+	height: 850px;
+	width: 2500px;
 	/*float: right;
 	margin-bottom: 500px;*/
 }
@@ -71,6 +71,8 @@
 #shop-img {
 	height: 650px;
 	width: 550px;
+	margin-left: 100px;
+	margin-top: 65px;
 }
 
 /*About CSS*/
