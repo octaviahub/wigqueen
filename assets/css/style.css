@@ -3,6 +3,7 @@
 
 }
 
+
 .container {
 	height: 500px;
 }
@@ -24,33 +25,16 @@
 	font-family: 'Alegreya', serif;
 }
 
-.button{
-	height: 60px;
-	width: 120px;
-	font-size: 25px;
-}
-
 
 #enter-btn {
 	margin-left: 550px;
 	font-size: 35px;
 	font-style: italic;
 	font-family: 'Alegreya', serif;
-	color: #67D0F7;
+	
 	
 }
 
-a:link {
-	text-decoration: none;
-	font-weight: bold;
-}
-
-a:visited {
-	text-decoration: none;
-	font-weight: bold;
-	color: #FD9DFC;
-
-}
 
 #img-home {
 
@@ -78,3 +62,4 @@ a:visited {
 #carouselContainer {
 	margin-top: 60px;
 }
+
